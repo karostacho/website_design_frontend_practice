@@ -4,7 +4,6 @@ body {
   background-color: rgb(242, 247, 247);
   padding:0px;
   width: fit-content;
-  
 }
 
 /* Navbar*/
@@ -73,16 +72,14 @@ body {
  .navbar a.kontakt:hover, a.kontakt:active {
    background-color: rgb(210, 231, 248);
    color:black;
-   
  }
 
 /* Section_1 : tekst + foto*/
 
 .header {
   margin-right: 200px;
- 
-
 }
+
 .section_1{
   background-color: rgb(229, 236, 236);
   display: flex;
@@ -96,7 +93,6 @@ body {
     text-align: left;
     font-weight: 700;
     font-size: 56px;
-    
     margin:0;
   }
 
@@ -115,7 +111,6 @@ body {
     font-weight: 10;
     font-size: 28px;
     display: inline
-    
   }
 
   .section_1 p2{
